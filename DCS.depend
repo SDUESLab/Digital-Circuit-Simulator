@@ -931,3 +931,74 @@
 
 1409680161 /usr/include/wx-3.0/wx/gtk/frame.h
 
+1411457362 source:/home/lqf/git/Digital-Circuit-Simulator/DCSApp.cpp
+	"DCSApp.h"
+	"DCSMain.h"
+	<wx/image.h>
+
+1411457362 /home/lqf/git/Digital-Circuit-Simulator/DCSApp.h
+	<wx/app.h>
+
+1411457362 /home/lqf/git/Digital-Circuit-Simulator/DCSMain.h
+	<wx/menu.h>
+	<wx/statusbr.h>
+	<wx/frame.h>
+
+1411458097 source:/home/lqf/git/Digital-Circuit-Simulator/DCSMain.cpp
+	"DCSMain.h"
+	<wx/msgdlg.h>
+	<wx/string.h>
+	<wx/intl.h>
+
+1409680160 /usr/include/wx-3.0/wx/msgdlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/stockitem.h"
+	"wx/generic/msgdlgg.h"
+	"wx/cocoa/msgdlg.h"
+	"wx/msw/msgdlg.h"
+	"wx/motif/msgdlg.h"
+	"wx/gtk/msgdlg.h"
+	"wx/osx/msgdlg.h"
+	"wx/os2/msgdlg.h"
+
+1409680160 /usr/include/wx-3.0/wx/dialog.h
+	"wx/toplevel.h"
+	"wx/containr.h"
+	"wx/sharedptr.h"
+	"wx/univ/dialog.h"
+	"wx/msw/dialog.h"
+	"wx/motif/dialog.h"
+	"wx/gtk/dialog.h"
+	"wx/gtk1/dialog.h"
+	"wx/osx/dialog.h"
+	"wx/cocoa/dialog.h"
+	"wx/os2/dialog.h"
+
+1409680160 /usr/include/wx-3.0/wx/containr.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1409680160 /usr/include/wx-3.0/wx/sharedptr.h
+	"wx/defs.h"
+	"wx/atomic.h"
+
+1409680160 /usr/include/wx-3.0/wx/atomic.h
+	"wx/defs.h"
+	"wx/msw/wrapwin.h"
+	"libkern/OSAtomic.h"
+	<atomic.h>
+	"wx/thread.h"
+
+1409680161 /usr/include/wx-3.0/wx/gtk/dialog.h
+
+1409680160 /usr/include/wx-3.0/wx/stockitem.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/string.h"
+	"wx/accel.h"
+
+1409680160 /usr/include/wx-3.0/wx/generic/msgdlgg.h
+
+1409680161 /usr/include/wx-3.0/wx/gtk/msgdlg.h
+
