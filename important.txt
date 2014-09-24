@@ -13,14 +13,12 @@
 (arch)sudo pacman -S codeblocks wxgtk boost boost-libs
 
 
-(ubuntu)sudo apt-get install
-
 项目管理:git github
 
-请大家在github.com上注册帐号，并把帐号名发给我
-
-我的帐号:LiQuidFly
+吕青峰：LiQuidFly
 娄乾：LouQian
+李开明：kaimingli
+董晓宇：dxyvera
 
 组织名：SDUESLab
 小组：DCSTeam
@@ -54,7 +52,6 @@ https://github.com/settings/ssh
 将内容全部复制进Key部分
 点击Add Key
 
-
 cd ~
 mkdir git
 (根据实际情况处理）
@@ -62,4 +59,10 @@ mkdir git
 cd git 
 git clone https://github.com/SDUESLab/Digital-Circuit-Simulator.git
 
+完成，工作目录在~/git/Digital-Circuit-Simulator 中
+
+
+
 git学习：http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+
